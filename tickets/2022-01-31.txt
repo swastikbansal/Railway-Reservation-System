@@ -1,0 +1,10 @@
+PNR No. : 1560684294
+Username : a a
+Date of Journey : 2022-01-31
+Start Station : Bhopal - BPL
+End Station : Jhansi - JHS
+Train No. : 1
+Train Name : Intercity
+Class : 1AC
+No. of Seats : 2
+Total Price : 3000

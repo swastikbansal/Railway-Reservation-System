@@ -1,0 +1,10 @@
+PNR No. : 1560684295
+Username : a a
+Date of Journey : 2022-04-11
+Start Station : Bhopal - BPL
+End Station : New Delhi - NDLS
+Train No. : 3
+Train Name : Shatabdi_Exp
+Class : 3AC
+No. of Seats : 5
+Total Price : 4000

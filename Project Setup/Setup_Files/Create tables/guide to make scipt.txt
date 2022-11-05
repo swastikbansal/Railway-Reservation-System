@@ -1,0 +1,16 @@
+open workbench and go to click 'migration wizard' in 'database' tab
+follow steps and when you reach to "Target Creation Options", Uncheck "Create schema in target RDBMS" and check "Create a script file"
+
+
+After migration Script is created login to the source database in workbench
+
+go to 'Server' tab and choose 'Data Export' Option
+
+Export to self contained File and check all the available options.
+
+After Data export.sql file is created open migration script.sql file
+
+also open data export .sql file and copy all the lines that contain insert statements and paste them in the migration script after creation of respective tables
+
+You may need to write "USE `database_name`" after DROP and CREATE database statements
+your final script is now ready
